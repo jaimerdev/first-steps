@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+.main__nav{
+    display: inline-block;
+    padding-left: 50%;
+}
+.main__nav li{
+    list-style: none;
+    font-size: 1.6rem;
+    display: inline-block;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.content{
+    position: relative;
+}
